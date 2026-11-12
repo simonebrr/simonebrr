@@ -3,7 +3,7 @@
 Studente di **Ingegneria e Scienze Informatiche** all'Università di Bologna (campus di Cesena).
 Costruisco software che risolve problemi concreti: backend, app mobile, automazioni e calcolo parallelo.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-simonebrr.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://simonebrr.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-simonebrr.github.io-0A66C2?style=flat-square&logo=github&logoColor=white)](https://simonebrr.github.io)
 [![CV](https://img.shields.io/badge/CV-PDF-555?style=flat-square&logo=readthedocs&logoColor=white)](https://simonebrr.github.io/image/brunelli_cv.pdf)
 [![X](https://img.shields.io/badge/@__simonebrunelli-000?style=flat-square&logo=x&logoColor=white)](https://x.com/_simonebrunelli)
 
